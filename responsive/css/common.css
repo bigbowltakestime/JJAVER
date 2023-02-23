@@ -1,0 +1,19 @@
+/* common */
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0px;
+}
+/* var,root */
+:root{
+  --backgraund-color-cadetblue : cadetblue;
+  --backgraund-color-blanchedalmond : blanchedalmond;
+}
+
+/* test */
+div{
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+}

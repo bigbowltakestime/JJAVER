@@ -1,0 +1,8 @@
+@media screen and (max-width:600px){
+  div{
+    border: none;
+    background-color: var(--backgraund-color-blanchedalmond)
+  }
+
+  
+}
